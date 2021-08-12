@@ -160,4 +160,51 @@ header {
   background-position: center;
 }
 
+.layout__sl {
+  background-color: #ffffff;
+  padding: 80px 40px;
+}
+.layout--name {
+  font-weight: bold;
+}
+.layout--name,
+.layout--number {
+  font-size: 20px;
+}
+
+.layout-summa {
+  padding: 5px 30px;
+  background-color: #dcb452;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  width: 75%;
+  text-align: center;
+  margin-top: 60px;
+}
+
 /* layout */
+
+/* consaltions */
+.consaltions {
+  background-image: url("../img/advantage-bg.png");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 0 !important ;
+}
+
+input.w-100 {
+  color: #1b93b9;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 0;
+}
+
+.consaltions__btn {
+  background: #001436;
+  color: white;
+  padding: 15px;
+  border: 0;
+}
+
+/* consaltions */

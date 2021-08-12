@@ -1,4 +1,4 @@
-$(".ban__sl").slick({
+$(".layout__sl").slick({
   infinite: true,
   slidesToShow: 1,
   slidesToScroll: 1,
